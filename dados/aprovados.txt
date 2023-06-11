@@ -1,0 +1,5 @@
+Ana 9.2
+Carlos 10
+Pedro 8.1
+Rafale 4.3
+Lucas 10
