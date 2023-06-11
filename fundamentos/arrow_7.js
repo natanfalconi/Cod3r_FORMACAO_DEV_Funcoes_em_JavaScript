@@ -16,4 +16,10 @@ const somar2 = a => b => c => a + b + c  // APENAS UM PARAMETRO - NÃO É OBRIGA
 console.log(somar2(7)(7)(5))
 
 
+const subtrair = (a, b) => a - b // NESSE EXEMPLO, NÃO POSSO REMOVER OS "()""
+const bomDia = () => 'Bom Dia' // MESMO CASO NESSE EXEMPLO - NÃO POSSO REMOVER OS "()""
+console.log(subtrair(7, 5))
+console.log(bomDia())
+
+
 
