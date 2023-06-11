@@ -1,0 +1,7 @@
+function bomDia() {
+    console.log('Bom dia')
+}
+
+setTimeout(bomDia, 3000)
+// CALLBACK É PASSAR UMA FUNÇÃO COMO PARAMETRO, E ELA SERÁ CHAMADA DE VOLTA EM ALGUM MOMENTO, QUE NO CASO ACIMA
+//É DEPOIS DE 3 SEGUNDOS
