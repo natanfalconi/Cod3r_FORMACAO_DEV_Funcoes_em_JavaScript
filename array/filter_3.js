@@ -20,3 +20,8 @@ const numeros = [1, 2, 3, 4, 5]
 console.log(numeros.filter(maiorOuIgualA4))
 console.log(numeros.meuFilter(maiorOuIgualA4))
 
+Array.prototype.nome = 'Natan'
+const apenasUmArray = []
+
+console.log('nome => ', apenasUmArray.nome)
+
